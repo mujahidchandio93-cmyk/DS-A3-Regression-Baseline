@@ -1,0 +1,18 @@
+{
+  "validation_MAE": 2155.725975469689,
+  "validation_RMSE": 2375.1352320055908,
+  "validation_R2": -6.738311632575472,
+  "validation_residual_mean": 2093.5488722831255,
+  "validation_residual_std": 1126.8827420598093,
+  "validation_durbin_watson": 0.1671836676554682,
+  "breusch_pagan_LM": 41.63735271400631,
+  "breusch_pagan_LM_pvalue": 1.0987386637279964e-10,
+  "breusch_pagan_F": 65.77910996191052,
+  "breusch_pagan_F_pvalue": 8.588769429536929e-13,
+  "training_influence_status": "computed_reduced_full_rank_design",
+  "training_influence_design_rank": 25,
+  "training_influence_design_columns": 25,
+  "training_cook_screen_threshold": 0.007827788649706457,
+  "training_rows_above_cook_screen": 18,
+  "training_max_cooks_distance": 0.12225374248852171
+}
